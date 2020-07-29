@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func callme() {
+func Callme() {
 	fmt.Printf("Finally!\n")
 }
